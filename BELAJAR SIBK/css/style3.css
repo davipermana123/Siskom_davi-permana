@@ -1,0 +1,53 @@
+body{
+    background: red;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body, 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+p{
+    margin: 0;
+
+}
+
+h1{
+    padding-bottom: 16x;
+    font: 64x;
+    font-weight: bold;
+
+}
+
+p{
+    font-size: 20x;
+
+}
+
+.hero-image{
+    width: 300px;
+} 
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: blue;
+
+}
+
+a:active{
+    color: yellow;
+
+}
+

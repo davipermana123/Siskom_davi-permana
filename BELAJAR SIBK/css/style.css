@@ -1,0 +1,22 @@
+body{
+    background-color: #caccca;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: justify;
+    background-repeat: unset;
+
+}
+
+img{
+    height: 200px;
+}
+
+p{
+    color: rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a href{
+    color: rgb(0, 47, 255);
+    font-style: normal;
+}
